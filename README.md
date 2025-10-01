@@ -17,3 +17,7 @@ Look to the code!
 🔲 Nested formula  
 🔲 Circular Detection  
 
+
+
+https://github.com/user-attachments/assets/f70bbd0a-a655-44b9-9be6-200b713e240d
+
