@@ -1,6 +1,6 @@
 # Excel birthday celebration 🎉
 
-Excel celebrate 40 years, then I tryied to implement an Excel clone in Rust, using just Box and Enum.
+Excel celebrates 40 years, then I tried to implement an Excel clone in Rust, using just Box and Enum.
 Look to the code!
 
 
